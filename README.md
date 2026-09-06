@@ -1,4 +1,17 @@
-# React + TypeScript + Vite
+# expence-tracker
+
+Expense tracker application built with React, TypeScript, and Vite.
+
+## Getting Started
+
+Install dependencies and start the development server:
+
+```bash
+npm install
+npm run dev
+```
+
+## Project Setup
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
